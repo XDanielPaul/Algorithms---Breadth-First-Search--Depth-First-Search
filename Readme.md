@@ -3,6 +3,6 @@ Programy simulujú algoritmy Breadth First Search a Depth First Search na situá
 
 Spúšťajú sa pomocou:
 
-python Breadth_First_Search.py
+python Breadth_first_search.py
 
-python Depth_First_Search.py
+python Depth_first_search.py
