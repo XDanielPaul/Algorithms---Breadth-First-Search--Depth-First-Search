@@ -192,9 +192,9 @@ class BFS:
 
 if __name__ == '__main__':
     start_time = time.time()
-    # Starting position = You can change by your liking
+    # Starting position = You can change to your liking
     starting_pos = [Empty(), Black(), White(), White(), Black(), 0, 1]
-    # Goal position = You can change by your liking
+    # Goal position = You can change to your liking
     goal_pos = [Black(), White(), Black(), White(), Empty()]
     root = BFS(starting_pos, goal_pos)
     print("--- %s seconds ---" % (time.time() - start_time))
